@@ -472,29 +472,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   position: absolute;
 }
 
-.top-\[175px\] {
-  top: 175px;
-}
-
-.top-\[173px\] {
-  top: 173px;
-}
-
-.top-\[171px\] {
-  top: 171px;
-}
-
-.top-\[172px\] {
-  top: 172px;
+.top-\[186px\] {
+  top: 186px;
 }
 
 .z-50 {
   z-index: 50;
-}
-
-.mx-4 {
-  margin-left: 1rem;
-  margin-right: 1rem;
 }
 
 .mx-2 {
@@ -530,14 +513,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 16rem;
 }
 
-.h-6 {
-  height: 1.5rem;
-}
-
-.h-7 {
-  height: 1.75rem;
-}
-
 .w-72 {
   width: 18rem;
 }
@@ -548,10 +523,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-64 {
   width: 16rem;
-}
-
-.w-6 {
-  width: 1.5rem;
 }
 
 .w-7 {
@@ -634,6 +605,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   font-family: Outfit, sans-serif;
 }
 
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
@@ -653,20 +629,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   font-weight: 600;
 }
 
-.font-light {
-  font-weight: 300;
-}
-
 .font-extralight {
   font-weight: 200;
 }
 
-.font-thin {
-  font-weight: 100;
-}
-
-.font-normal {
-  font-weight: 400;
+.font-light {
+  font-weight: 300;
 }
 
 .text-fem-600 {
