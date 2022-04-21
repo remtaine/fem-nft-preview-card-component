@@ -472,8 +472,24 @@ Ensure the default browser behavior of the `hidden` attribute.
   position: absolute;
 }
 
+.relative {
+  position: relative;
+}
+
 .top-\[186px\] {
   top: 186px;
+}
+
+.top-\[0px\] {
+  top: 0px;
+}
+
+.bottom-\[0px\] {
+  bottom: 0px;
+}
+
+.bottom-0 {
+  bottom: 0px;
 }
 
 .z-50 {
